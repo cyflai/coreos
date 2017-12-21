@@ -1,5 +1,5 @@
 #!/bin/bash -uxe
-## bash <(curl -s http://mywebsite.com/myscript.txt)
+## bash <(curl -s https://raw.githubusercontent.com/cyflai/coreos/master/py-install.sh)
 
 
 mkdir -p /opt/bin
