@@ -1,4 +1,6 @@
 #!/bin/bash -uxe
+## bash <(curl -s http://mywebsite.com/myscript.txt)
+
 
 mkdir -p /opt/bin
 
